@@ -1,1 +1,7 @@
-<a href="https://mahdilcoder.github.io/Notes-App-JS/" style="font-size: 25px;">App Link</a>
+<a href="https://mahdilcoder.github.io/Notes-App-JS/">App Link</a>
+<style>
+  a{
+    font-size: 20px;
+    font-style: italic;
+  }
+</style>
